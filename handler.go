@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/cdipaolo/sentiment"
+	"github.com/veritone/veritone-sentiment"
 )
 
 var (

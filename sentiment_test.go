@@ -9,7 +9,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/cdipaolo/sentiment"
+	"github.com/veritone/veritone-sentiment"
 )
 
 const (

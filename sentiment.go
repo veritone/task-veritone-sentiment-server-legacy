@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/cdipaolo/sentiment"
+	"github.com/veritone/veritone-sentiment"
 )
 
 var (

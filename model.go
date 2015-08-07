@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cdipaolo/sentiment"
+	"github.com/veritone/veritone-sentiment"
 )
 
 // TimeSeriesResponse returns the
